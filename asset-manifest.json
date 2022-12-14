@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React-UnspashAp/static/css/main.cf255bb1.css",
-    "main.js": "/React-UnspashAp/static/js/main.d1e9f706.js",
-    "index.html": "/React-UnspashAp/index.html",
-    "main.cf255bb1.css.map": "/React-UnspashAp/static/css/main.cf255bb1.css.map",
-    "main.d1e9f706.js.map": "/React-UnspashAp/static/js/main.d1e9f706.js.map"
+    "main.css": "/React-UnspashAPI/static/css/main.cf255bb1.css",
+    "main.js": "/React-UnspashAPI/static/js/main.d1e9f706.js",
+    "index.html": "/React-UnspashAPI/index.html",
+    "main.cf255bb1.css.map": "/React-UnspashAPI/static/css/main.cf255bb1.css.map",
+    "main.d1e9f706.js.map": "/React-UnspashAPI/static/js/main.d1e9f706.js.map"
   },
   "entrypoints": [
     "static/css/main.cf255bb1.css",
