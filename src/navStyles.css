@@ -1,0 +1,16 @@
+.me-2{
+    width: 500px;
+    border: solid 1px #000;
+}
+
+.search-btn{
+    border: solid 1px #000;
+    background-color: #000;
+    color: #fff;
+}
+
+.justify-content-center{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
