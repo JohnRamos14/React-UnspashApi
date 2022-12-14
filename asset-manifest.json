@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Unsplash/static/css/main.cf255bb1.css",
+    "main.js": "/React-Unsplash/static/js/main.d1e9f706.js",
+    "index.html": "/React-Unsplash/index.html",
+    "main.cf255bb1.css.map": "/React-Unsplash/static/css/main.cf255bb1.css.map",
+    "main.d1e9f706.js.map": "/React-Unsplash/static/js/main.d1e9f706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf255bb1.css",
+    "static/js/main.d1e9f706.js"
+  ]
+}
